@@ -1,7 +1,0 @@
----
-title: "HelloWord"
-author: "Ricardo Giuliani"
-date: "7/17/2020"
-output: word_document
----
-## This is a markdown file
